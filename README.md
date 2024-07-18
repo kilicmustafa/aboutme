@@ -1,6 +1,6 @@
 # Mustafa Kilic
 
-Java Backend Developer | Technical Support Specialist | Hardware Technician
+Java Backend Developer 
 
 ---
 
